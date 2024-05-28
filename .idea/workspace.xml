@@ -4,29 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a53f40f-78a7-4207-b136-ef3c56f0a37c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meetup/views.py" afterDir="false" />
+    <list default="true" id="0a53f40f-78a7-4207-b136-ef3c56f0a37c" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetup/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +44,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -109,13 +99,37 @@
       <workItem from="1716879960206" duration="1405000" />
       <workItem from="1716881579817" duration="42000" />
       <workItem from="1716881627925" duration="321000" />
+      <workItem from="1716889637553" duration="1183000" />
+      <workItem from="1716892710821" duration="650000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1716889753746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716889753746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
